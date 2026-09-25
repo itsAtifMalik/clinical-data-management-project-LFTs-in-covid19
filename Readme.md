@@ -1,6 +1,9 @@
 # COVID-19 Inpatient Liver Injury Biomarker Registry & eCRF Architecture
 Project Title: Deranged Liver Enzymes in COVID-19
+
 Link: https://zenodo.org/records/22961182?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImRiM2RkYzc4LTBiYmUtNGU3NC1iNjMyLWIyZDkwOGFiZDRkMiIsImRhdGEiOnt9LCJyYW5kb20iOiIyZjUxNjE5ZTMxZDZhNDI3Njg2ODg2MjYyOWE2N2UxNCJ9.uwDwd8bjagmsgikW2pv-IamKlZ5qVzaxJ5jrMKqn2i-LqlmkdNuu7bqjntWJjZp32639annIScmTw3ipjhWxiw
+
+
 A GCP- and 21 CFR Part 11-compliant longitudinal Electronic Data Capture (EDC) system designed in REDCap. This project translates a peer-reviewed inpatient observational study into a structured clinical data management pipeline with dynamic validation rules, automated safety triggers, and audit-ready data workflows.
 
 ---
