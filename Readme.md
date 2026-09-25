@@ -1,4 +1,4 @@
-# COVID-19 Inpatient Hepatic Biomarker Registry & eCRF Architecture
+# COVID-19 Inpatient Liver Injury Biomarker Registry & eCRF Architecture
 
 A GCP- and 21 CFR Part 11-compliant longitudinal Electronic Data Capture (EDC) system designed in REDCap. This project translates a peer-reviewed inpatient observational study into a structured clinical data management pipeline with dynamic validation rules, automated safety triggers, and audit-ready data workflows.
 
